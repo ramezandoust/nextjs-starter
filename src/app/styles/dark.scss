@@ -1,0 +1,7 @@
+$color-mode-type: data;
+@include color-mode(dark) {
+  body {
+    // color: var(--bs-primary-text-emphasis);
+    // background-color: var(--bs-primary-bg-subtle);
+  }
+}

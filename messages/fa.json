@@ -1,0 +1,22 @@
+{
+  "Index": {
+    "title": "خانه",
+    "description": "این صفحه خانه است"
+  },
+  "LocaleLayout": {
+    "title": "تمپلیت نکست 1",
+    "description": "پروژه تمپلیت نکست 1"
+  },
+  "LocaleSwitcher": {
+    "switchLocale": "سوئیچ به {locale, select, fa {Persian} en {English} other {Unknown}}"
+  },
+  "MenuCp": {
+    "logo": "لوگو",
+    "home": "خانه",
+    "about": "درباره ما"
+  },
+  "AboutPage": {
+    "title": "درباره ما",
+    "description": "این صفحه درباره ما است."
+  }
+}

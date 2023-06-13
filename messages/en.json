@@ -1,0 +1,22 @@
+{
+  "Index": {
+    "title": "Home",
+    "description": "This is the home page."
+  },
+  "LocaleLayout": {
+    "title": "next-template-1",
+    "description": "next-template-1 project"
+  },
+  "LocaleSwitcher": {
+    "switchLocale": "Switch to {locale, select, fa {Persian} en {English} other {Unknown}}"
+  },
+  "MenuCp": {
+    "logo": "logo",
+    "home": "home",
+    "about": "about"
+  },
+  "AboutPage": {
+    "title": "About",
+    "description": "This is the about page."
+  }
+}

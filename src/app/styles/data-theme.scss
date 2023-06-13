@@ -1,0 +1,8 @@
+:root,
+[data-bs-theme="light"] {
+  --main-nav-link: $gray-900;
+}
+[data-bs-theme="dark"] {
+  color-scheme: dark;
+  --main-nav-link: $gray-100;
+}
